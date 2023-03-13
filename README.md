@@ -15,11 +15,11 @@ O arquivo de entrada contém um número de ponto flutuante.
 Saída
 A saída deve ser uma mensagem como o exemplo a seguir.
 
-Amostra de entrada	Amostra de saída
-25.01                  Intervalo (25,50]
+Amostra de entrada	   Amostra de saída
+25.01                     Intervalo (25,50]
 
-25h00                   Intervalo [0,25]
+25h00                      Intervalo [0,25]
 
-100,00                  Intervalo (75,100]
+100,00                     Intervalo (75,100]
 
--25,0                   Fora de intervalo
+-25,0                      Fora de intervalo
